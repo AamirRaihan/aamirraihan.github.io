@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img class="profile-picture" src="Profile.jpg">
+<img class="profile-picture" src="../Profile.jpg">
 
 Hi! I am a master 2nd year student of Computer Engineering at The University of British Columbia, Vancouver.
 
