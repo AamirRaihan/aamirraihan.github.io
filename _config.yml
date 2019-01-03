@@ -27,7 +27,7 @@ nav:
  - name: "Resume"
    link: "../resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "../contact"
 
 # Custom vars
 version:          1.0.0
