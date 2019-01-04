@@ -1,26 +1,27 @@
 ---
-layout: default
+layout: default 
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [araihan@ece.ubc.ca](mailto:araihan@ece.ubc.ca)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-778-319-5486](tel:+1-778-319-5486)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> SJC-3109
 >
-> London
+> 2111 Lower Mall
 >
-> United Kingdom
+> Vancouver BC V6T 1Z4
+>
+> Canada
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://ca.linkedin.com/in/aamir-raihan-45368052)
+2. [Twitter](https://twitter.com/MdAamirRaihan1)
