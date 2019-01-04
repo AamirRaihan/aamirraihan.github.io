@@ -5,42 +5,16 @@ title: About Me
 
 <img class="profile-picture" src="../Profile.jpg">
 
-Hi! I am a master 2nd year student of Computer Engineering at The University of British Columbia, Vancouver.
+Hi! I am a 2<sup>nd</sup> year master student of Computer Engineering at The University of British Columbia, Vancouver. I am fortunate to be advised by [Tor Aamodt](https://www.ece.ubc.ca/~aamodt/). 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Previously, I received my undergraduate degree from Indian Institute of Technology (BHU), Varanasi in 2015. After graduation I worked for two years at NXP semiconductor(Former Freescale Semiconductor).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interest spans at the intersection of systems and machine learning. I am currently working on co-designing efficient algorithms, software infrastructure and hardware systems for machine learning.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
+1. [Modeling Deep Learning Accelerator Enabled GPUs](https://arxiv.org/abs/1811.08309)
+2. [A Flexible Scalable Hardware Architecture for Radial Basis Function Neural Network](https://ieeexplore.ieee.org/document/7031785?reload=true)
 

@@ -6,8 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Md Aamir Raihan
-tagline:          'A Dreamer'
+title:            Md Aamir Raihan 
+#tagline:          'A Dreamer'
+tagline:          ''
 description:      ''
 url:              https://aamirraihan.github.io
 
